@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "翻訳・ニュース比較サイドバー",
+  "version": "0.1.0",
+  "description": "選択文翻訳、複数記事比較、ニュース横断メモを行う。 入力、確認、履歴保存、次アクションを同じ作業単位で扱えるようにする。",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "storage"
+  ],
+  "options_page": "options.html"
+}
