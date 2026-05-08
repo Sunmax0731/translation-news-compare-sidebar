@@ -1,0 +1,11 @@
+{
+  "product": "translation-news-compare-sidebar",
+  "title": "翻訳・ニュース比較サイドバー",
+  "domain": "ChromeExtension",
+  "ideaNo": 8,
+  "platformType": "chrome-extension",
+  "expectedPublicTarget": "Chrome Web Store",
+  "browser": null,
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
